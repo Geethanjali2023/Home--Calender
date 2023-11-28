@@ -25,6 +25,6 @@ This calendar application is designed to provide users with a seamless and inter
 To get started with this project, clone the repository and open `index.html` in your browser.
 
 ```bash
-git clone https://github.com/Metun19/calendar.git
+git clone https://github.com/Geethanjali2023/Home--Calender.git
 cd calendar
 open index.html
